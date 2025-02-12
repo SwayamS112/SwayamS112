@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Swayam Sood!<br>🚀 Full Stack Developer | Computer Science Student<br>💻 Passionate about building scalable web applications and interactive user experiences.<br>🌱 Currently exploring advanced concepts in React, Node.js, and MongoDB.<br>🔧 Skilled in JavaScript, HTML, CSS, MySQL, MongoDB, and TypeScript.<br>🎯 Always open to learning new technologies and improving my problem-solving skills.
+👋 Hi, I'm Swayam Sood!<br>🚀 Full Stack Developer | Computer Science Student<br>💻 Passionate about building scalable web applications and interactive user experiences.<br>🌱 Currently exploring advanced concepts in React, Node.js, and MongoDB.<br>🔧 Skilled in JavaScript, HTML, CSS, MySQL, MongoDB, TailwindCss, React.JS and JavaScript.<br>🎯 Always open to learning new technologies and improving my problem-solving skills.
 
 
 ## 🌐 Socials:
