@@ -1,73 +1,103 @@
-# 💫 About Me:
-👋 Hi, I'm **Swayam Sood**  
-🚀 Full Stack Developer | Final Year Computer Science Student  
-💻 Passionate about building scalable web applications and crafting interactive user experiences.  
-🌱 Currently exploring advanced concepts in **React**, **Node.js**, and **MongoDB**.  
-🔧 Skilled in **JavaScript**, **TypeScript**, **HTML**, **CSS**, **TailwindCSS**, **MySQL**, **MongoDB**, **ReactJS** & more.  
-🎯 Always eager to learn new technologies and sharpen my problem-solving skills.
+<h1 align="center">Hi 👋, I'm Swayam Sood</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Final+Year+CSE+Student;Full+Stack+Web+Developer;Tech+Enthusiast+%F0%9F%92%BB;MERN+Stack+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SwayamS112">
+    <img src="https://img.shields.io/github/followers/SwayamS112?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:soodswayam41@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/swayam-sood-b76855252/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio2-ldhoag3n9-swayams-projects-c43da883.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-sand-kappa.vercel.app/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/swayam_sood__)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-sood-b76855252/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soodswayam41@gmail.com)
+## 👨‍💻 About Me
+
+🎓 Final year **Computer Science Engineering** student at **Chitkara University**  
+💻 Full Stack Developer with **1+ year of experience** in building web applications  
+🚀 Passionate about learning new technologies and building real-world projects  
+📫 Reach me at: **soodswayam41@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 ### 🚀 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=flat&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 
-### 🛠️ Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+### 🧩 Backend & Database  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%2345A1FF.svg?style=flat&logo=render&logoColor=white)
+### 🛠️ Tools & Others  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![NodeMailer](https://img.shields.io/badge/-NodeMailer-222222?style=flat&logo=npm&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-F5788D?style=flat&logo=chartdotjs)
 
-### 🎨 Design & Media  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-00D2F3.svg?style=flat&logo=filmora&logoColor=white)
+---
+
+## 🧠 Projects
+
+### 💸 SpendSense - AI Expense Tracker  
+🔍 Smart categorization of expenses using **keyword detection**  
+📊 Visual insights powered by **Chart.js**  
+🛠️ Tech: React, Node.js, Express, MongoDB, NodeMailer, TailwindCSS
+
+### 🏫 CampusConnect - College Event Platform  
+📅 Discover and register for upcoming college events  
+🌐 Built with HTML, CSS, JavaScript, Node.js, Express, MongoDB
+
+### 🌐 Personal Portfolio Website  
+💼 Showcasing my work and journey as a full-stack developer  
+🛠️ Built with React and TailwindCSS, deployed on Vercel
+
+---
+
+## 🏅 Certifications
+
+- ✅ **React Bootcamp** – LetsUpgrade (2025)  
+- ✅ **Git & GitHub Bootcamp** – LetsUpgrade (2025)
+
+---
+
+## ⚽ Hobbies & Interests
+
+- 💪 Fitness Enthusiast (Regular Gym Routine)
+- 🏸 Playing Badminton and Football Occasionally
+- 📚 Learning new tech every day
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SwayamS112&theme=merko&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SwayamS112&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamS112&theme=merko&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwayamS112&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamS112&theme=react&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamS112&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=SwayamS112&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
+> *“Code. Learn. Repeat. Let’s build the future one line at a time.”*
 
----
-
-## ✍️ Quote of the Day  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=SwayamS112&limit=5&theme=calm&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=SwayamS112&icon=1&color=0)](https://visitcount.itsvg.in)
