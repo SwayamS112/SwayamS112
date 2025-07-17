@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/swayam-sood-b76855252/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio2-ldhoag3n9-swayams-projects-c43da883.vercel.app/">
+  <a href="https://portfolio2-sand-kappa.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -23,9 +23,19 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final year **Computer Science Engineering** student at **Chitkara University**  
-💻 Full Stack Developer with **1+ year of experience** in building web applications  
-🚀 Passionate about learning new technologies and building real-world projects  
+🎓 Final year Computer Science Engineering student at Chitkara University
+
+💻 Passionate Full Stack Developer with 1+ year of MERN stack experience
+
+🚀 Love building scalable and user-friendly web applications
+
+🔍 Quick learner, always exploring new tech and tools
+
+🤝 Strong in teamwork, leadership, and project management
+
+💪 Fitness enthusiast – regular gym-goer
+
+🏸 Enjoys badminton & football during free time
 📫 Reach me at: **soodswayam41@gmail.com**
 
 ---
