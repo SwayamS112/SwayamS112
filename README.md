@@ -25,7 +25,7 @@
 
 🎓 Final year Computer Science Engineering student at Chitkara University
 
-💻 Passionate Full Stack Developer with 1+ year of MERN stack experience
+💻 Passionate Full Stack Developer with MERN stack experience
 
 🚀 Love building scalable and user-friendly web applications
 
