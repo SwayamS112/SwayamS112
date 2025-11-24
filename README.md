@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/swayam-sood-b76855252/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio2-sand-kappa.vercel.app/">
+  <a href="https://portfolio3-kappa-rouge.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
