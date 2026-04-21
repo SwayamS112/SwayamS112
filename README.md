@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm Swayam Sood</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=SDET+Trainee+%40+Bebo+Technologies;Manual+%2B+Automation+Tester;Playwright+%7C+JavaScript;Ex-MERN+Stack+Developer;Bug+Hunter+%F0%9F%90%9E+%7C+Quality+First+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=SDET+Trainee+%40+Bebo+Technologies;Manual+%2B+Automation+Tester;Playwright+%7C+JavaScript;Quality+Engineer+%F0%9F%94%8D;Bug+Hunter+%F0%9F%90%9E+%7C+Quality+First+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SwayamS112">
+    <img src="https://img.shields.io/github/followers/SwayamS112?label=Follow&style=social" />
+  </a>
+  <a href="mailto:soodswayam41@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/swayam-sood-b76855252/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio3-kappa-rouge.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -12,19 +27,34 @@
 
 💼 **SDET Trainee at Bebo Technologies (Chandigarh IT Park)**  
 
+🧪 Working as a **Quality Engineer**, focused on delivering high-quality, bug-free applications  
+
 🧪 Skilled in **Manual Testing + Automation Testing (Playwright with JavaScript)**  
 
-💻 Started as a **MERN Stack Developer**, now leveraging dev knowledge in testing  
+💻 Strong foundation in **MERN stack development**, helping in better understanding of applications  
 
-🔄 Strong understanding of both **development + QA lifecycle**  
+🔄 Strong understanding of **SDLC, STLC & QA processes**  
 
-🐞 Passionate about breaking applications to improve quality  
+🐞 Passionate about finding bugs and improving product quality  
 
 🚀 Exploring **AI in Testing, Automation Frameworks & CI/CD**  
 
-💪 Fitness Enthusiast | 🏸 Sports Lover  
-
 📫 **soodswayam41@gmail.com**
+
+---
+
+## 💼 Experience
+
+### 🏢 SDET Trainee – Bebo Technologies  
+📍 Chandigarh IT Park  
+
+- Working on real-world applications to ensure quality and reliability  
+- Writing and executing manual test cases  
+- Performing functional & regression testing  
+- Automating test scenarios using Playwright (JavaScript)  
+- Collaborating with developers in Agile environment  
+- Logging and tracking bugs using Jira  
+- Hands-on experience with end-to-end testing  
 
 ---
 
@@ -33,7 +63,7 @@
 ### 🔍 Manual Testing
 - Test Case Design & Execution  
 - Functional Testing  
-- Non-Functional Testing (Performance, Usability Basics)  
+- Non-Functional Testing  
 - Regression Testing  
 - Exploratory Testing  
 - Bug Reporting & Tracking (Jira)  
@@ -44,12 +74,11 @@
 - End-to-End Testing (E2E)  
 - UI Automation  
 - Handling Alerts, Frames, Windows  
-- Cross-browser Testing Basics  
 - Reusable Test Scripts  
 
 ### ⚙️ Methodologies
 - Agile Methodology  
-- Scrum (Sprint Planning, Daily Standups, Retrospectives)  
+- Scrum  
 
 ---
 
@@ -88,52 +117,35 @@
 ## 🧠 Projects
 
 ### 🧪 Demoblaze Testing Project (Manual + Automation)
-🔍 Performed **end-to-end testing** on Demoblaze application  
-
-🧪 **Manual Testing:**
 - Created test cases for login, cart, checkout  
 - Performed functional & regression testing  
-- Logged bugs with proper steps & severity  
-
-🤖 **Automation Testing:**
-- Automated user flows using Playwright (JS)  
-- Covered login, product purchase, navigation  
-- Implemented reusable test scripts  
+- Automated flows using Playwright  
+- Covered end-to-end user journey  
 
 ---
 
-### 💸 SpendSense - AI Expense Tracker  
-📊 Full-stack MERN application  
+### 🍽️ YumList – Recipe Management App  
+🔗 https://github.com/SwayamS112/recipe_planner_project  
 
-🧪 **Testing Work:**
-- Functional testing of transactions & dashboards  
-- UI testing for responsiveness  
-- Regression testing for feature updates  
+- Functional testing of CRUD features  
+- UI & responsiveness testing  
+- Regression testing after updates  
 
 ---
 
-### 🏫 CampusConnect - Event Platform  
-📅 College event management system  
+### 🏫 CampusConnect – Event Platform  
+🔗 https://github.com/SwayamS112/Event_Stalker-Project  
 
-🧪 **Testing Work:**
-- Tested event creation & registration flows  
-- Verified form validations  
-- Performed end-to-end user journey testing  
+- Tested event flows and user registration  
+- Form validation testing  
+- End-to-end testing  
 
 ---
 
 ### 🌐 Personal Portfolio Website  
-💼 Showcasing my journey as Developer → Tester  
-<p align="center">
-  <a href="https://portfolio3-kappa-rouge.vercel.app/" target="_blank">
-    🌐 Visit My Portfolio
-  </a>
-</p>
-🛠️ Built with React & Tailwind  
+🔗 https://portfolio3-kappa-rouge.vercel.app/
 
-🧪 **Testing Work:**
-- UI & responsiveness testing  
-- Cross-browser testing  
+- UI & cross-browser testing  
 - Performance & usability checks  
 
 ---
@@ -145,20 +157,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwayamS112&show_icons=true&theme=react&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Current Focus
 
-✔ Improving Automation Frameworks (Playwright)  
-✔ Learning Advanced Testing Concepts  
-✔ Exploring AI in Software Testing  
+✔ Advanced Playwright Automation  
+✔ Building Testing Frameworks  
+✔ AI in Software Testing  
 
 ---
 
-> 💡 *“I don’t just build applications — I ensure they work flawlessly.”*  
+> 💡 *“I don’t just test applications — I ensure quality at every step.”*
