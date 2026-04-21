@@ -73,7 +73,6 @@
 ### 🤖 Testing Tools & Technologies
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 ---
 
@@ -125,7 +124,11 @@
 
 ### 🌐 Personal Portfolio Website  
 💼 Showcasing my journey as Developer → Tester  
-
+<p align="center">
+  <a href="https://portfolio3-kappa-rouge.vercel.app/" target="_blank">
+    🌐 Visit My Portfolio
+  </a>
+</p>
 🛠️ Built with React & Tailwind  
 
 🧪 **Testing Work:**
