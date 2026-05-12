@@ -82,37 +82,56 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Skills
 
-### 💻 Development Skills (MERN + More)
+### 💻 Development Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat)
 
 ---
 
-### 🤖 Testing Tools & Technologies
+### 🤖 Testing & Automation
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
+![Manual Testing](https://img.shields.io/badge/-Manual_Testing-6A5ACD?style=flat)
+![Automation Testing](https://img.shields.io/badge/-Automation_Testing-FF6F00?style=flat)
+![Functional Testing](https://img.shields.io/badge/-Functional_Testing-00897B?style=flat)
+![Regression Testing](https://img.shields.io/badge/-Regression_Testing-3949AB?style=flat)
+![Smoke Testing](https://img.shields.io/badge/-Smoke_Testing-D81B60?style=flat)
+![Cross Browser Testing](https://img.shields.io/badge/-Cross_Browser_Testing-5E35B1?style=flat)
+![UI Testing](https://img.shields.io/badge/-UI_Testing-039BE5?style=flat)
+![POM Framework](https://img.shields.io/badge/-POM_Framework-43A047?style=flat)
+![End-to-End Testing](https://img.shields.io/badge/-E2E_Testing-F4511E?style=flat)
 
 ---
 
-### ⚙️ Tools & Platforms
+### ⚙️ CI/CD, Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
+
+### 📚 QA Concepts & Methodologies
+![SDLC](https://img.shields.io/badge/-SDLC-4CAF50?style=flat)
+![STLC](https://img.shields.io/badge/-STLC-8E24AA?style=flat)
+![Agile](https://img.shields.io/badge/-Agile-0288D1?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-6D4C41?style=flat)
+![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-E53935?style=flat)
+![Defect Lifecycle](https://img.shields.io/badge/-Defect_Lifecycle-FB8C00?style=flat)
+![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-7CB342?style=flat)
+![Boundary Value Analysis](https://img.shields.io/badge/-Boundary_Value_Analysis-3949AB?style=flat)
+![Equivalence Partitioning](https://img.shields.io/badge/-Equivalence_Partitioning-0097A7?style=flat)
 
 ## 🧠 Projects
 
